@@ -1,3 +1,5 @@
+
+
 farmacia:
     resource: "@FarmaciaBundle/Controller/"
     type:     annotation
